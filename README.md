@@ -1,3 +1,5 @@
+
+
 # 📜 Log Monitor
 
 A simple Python-based log analysis tool that scans for SSH “Failed password” entries and summarizes failed login attempts by IP address.
@@ -31,4 +33,9 @@ Packaging Python scripts for straightforward CLI usage
 👤 Author
 
 Mohammad Akib Shaikh
-Aspiring Cybersecurity Analyst • Security+ Candidate
+Aspiring Cybersecurity Analyst
+
+## Next Steps
+- Building a self-hosted Wazuh SIEM lab to replicate these alerts locally
+- Completing Phishing Email Analysis (Email Header Forensics, IOC Extraction)
+- Contributing detection rules to Sigma repository
