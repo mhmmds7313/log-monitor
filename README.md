@@ -33,7 +33,7 @@ Packaging Python scripts for straightforward CLI usage
 👤 Author
 
 Mohammad Akib Shaikh
-Aspiring Cybersecurity Analyst
+Cybersecurity Analyst
 
 ## Next Steps
 - Building a self-hosted Wazuh SIEM lab to replicate these alerts locally
